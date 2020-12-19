@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a744c8d4-24f4-4fca-bf10-c6413e419764" name="Default Changelist" comment="" />
+    <list default="true" id="a744c8d4-24f4-4fca-bf10-c6413e419764" name="Default Changelist" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/config/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +14,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kDcKsAp4NYyPPo4itUTnO97jL1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,17 +40,43 @@
       <workItem from="1605238621441" duration="150000" />
       <workItem from="1605238784766" duration="596000" />
       <workItem from="1608347003949" duration="36000" />
-      <workItem from="1608347220104" duration="4149000" />
+      <workItem from="1608347220104" duration="4899000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1608353084384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608353084384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="782" y="346" key="SettingsEditor" timestamp="1605238611172">
+    <state x="1073" y="281" key="CommitChangelistDialog2" timestamp="1608353025152">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="346" key="SettingsEditor/-3840.-14.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1605238611172" />
+    <state x="1073" y="281" key="CommitChangelistDialog2/-3840.-14.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1608353025152" />
+    <state x="782" y="346" key="SettingsEditor" timestamp="1608353273417">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="346" key="SettingsEditor/-3840.-14.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1608353273417" />
+    <state x="1142" y="501" key="Vcs.Push.Dialog.v2" timestamp="1608353385231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1142" y="501" key="Vcs.Push.Dialog.v2/-3840.-14.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1608353385231" />
+    <state x="1367" y="682" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608353462862">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1367" y="682" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-3840.-14.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1608353462862" />
   </component>
 </project>
